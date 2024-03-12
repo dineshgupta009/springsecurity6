@@ -1,6 +1,7 @@
 package com.springsecurity6.repository;
 
-import com.eazybytes.model.Customer;
+
+import com.springsecurity6.model.Customer;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
